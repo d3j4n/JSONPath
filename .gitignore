@@ -1,0 +1,10 @@
+*.swp
+*.jar
+target/
+/lib/*
+lib_managed/
+project/boot/
+project/build/target/
+project/plugins/src_managed/
+project/plugins/project/
+logs/
